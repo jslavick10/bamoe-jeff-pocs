@@ -41,5 +41,9 @@ nb-configuration.xml
 
 # Plugin directory
 /.quarkus/cli/plugins/
+
 # TLS Certificates
 .certs/
+target
+*.swidtag
+.DS_Store
